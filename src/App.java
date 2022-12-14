@@ -141,6 +141,19 @@ public class App {
     }
 
     public void showMenu() {
+
+        System.out.println( " ______                                __                               ");
+        System.out.println( "/      |                              /  |                              ");
+        System.out.println( "$$$$$$/  _______   __     __  ______  $$/   _______   ______    ______  ");
+        System.out.println( "  $$ |  /       \\ /  \\   /  |/      \\ /  | /       | /      \\  /      \\ ");
+        System.out.println( "  $$ |  $$$$$$$  |$$  \\ /$$//$$$$$$  |$$ |/$$$$$$$/ /$$$$$$  |/$$$$$$  |");
+        System.out.println( "  $$ |  $$ |  $$ | $$  /$$/ $$ |  $$ |$$ |$$ |      $$    $$ |$$ |  $$/ ");
+        System.out.println( " _$$ |_ $$ |  $$ |  $$ $$/  $$ \\__$$ |$$ |$$ \\_____ $$$$$$$$/ $$ |      ");
+        System.out.println( "/ $$   |$$ |  $$ |   $$$/   $$    $$/ $$ |$$       |$$       |$$ |      ");
+        System.out.println( "$$$$$$/ $$/   $$/     $/     $$$$$$/  $$/  $$$$$$$/  $$$$$$$/ $$/       ");
+        System.out.println( "                                                                        ");
+        System.out.println( "                                                                        ");
+        System.out.println( "                                                                        ");
         System.out.println("""
                 -------MENU--------
                 1. Create invoice
